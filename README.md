@@ -1,6 +1,5 @@
 ![Web Developer](https://media-exp2.licdn.com/dms/image/C4D16AQEX9GHd6ZagDA/profile-displaybackgroundimage-shrink_350_1400/0/1654703147335?e=1661385600&v=beta&t=S3YjmWtIqe2NMy_4fYhWbbQTYcb_466x6YAkD2FRiaU)
-### Hi there 👋, I'm Nosia Akter
-#### Web Developer
+### Hi, I'm Nosia Akter 👋
 
 I am a Junior Web developer. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real world problems. I enjoy working with CSS, ReactJS, JavaScript as well as node.js.
 
