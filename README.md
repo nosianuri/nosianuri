@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Frameworkes, cources etc**
 
-- 👨‍💻 All of my projects are available at [https://keen-mccarthy-174499.netlify.app/](https://keen-mccarthy-174499.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://nosia-portfolio.vercel.app/)
 
 - 💬 Ask me about **react, nodejs and graphql**
 
