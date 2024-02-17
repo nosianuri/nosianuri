@@ -1,4 +1,4 @@
-![logo](https://i.ibb.co/f1g3hZg/banner.png)
+
 <h1 align="center">Hi 👋, I'm Nosia Akter</h1>
 <h3 align="center">A passionate Full Stack developer from Bangladesh</h3>
 
